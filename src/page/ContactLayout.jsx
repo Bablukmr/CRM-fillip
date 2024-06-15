@@ -39,7 +39,7 @@ function Contact() {
             </p>
           </div>
         </div>
-        <div className="w-full md:w-[50%]">
+        <div className="w-full flex items-center justify-center md:w-[50%]">
           <ContactForm />
         </div>
       </div>
