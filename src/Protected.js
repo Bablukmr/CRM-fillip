@@ -1,4 +1,3 @@
-// src/Protected.js
 import React from 'react';
 import AdminLayout from './admin/AdminLayout';
 import ProtectedRoute from './ProtectedRoute';

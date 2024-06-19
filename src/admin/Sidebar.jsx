@@ -21,7 +21,7 @@ function Sidebar() {
 
   const links = [
     { to: 'web-leads', text: 'Web Leads' },
-    { to: 'leads', text: 'Leads 1' },
+    { to: 'menual', text: 'Menual' },
     { to: 'leads', text: 'Leads 2' },
     { to: 'leads', text: 'Leads 3' },
     { to: 'leads', text: 'Leads 4' },
