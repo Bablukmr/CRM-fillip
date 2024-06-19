@@ -41,7 +41,7 @@ const ContactForm = () => {
         headers: {
           "Content-Type": "application/json",
         },
-        // body: JSON.stringify({}),
+        // body: JSON.stringify({name:"Bablu Kumar",project:"Web dev"}),
         body: JSON.stringify(formData),
       })
         .then((response) => response.json())
